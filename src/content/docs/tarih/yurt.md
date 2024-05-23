@@ -1,6 +1,6 @@
 ---
 title: Yurt
-description: vatan -> yurt
+description: Vatan -> Yurt
 date: 2024-05-23T19:41:00.000Z
 ---
 Vatan -> Yurt
