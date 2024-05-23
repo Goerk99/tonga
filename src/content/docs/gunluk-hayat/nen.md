@@ -1,14 +1,10 @@
 ---
-title: Nen
-description: Şey -> Nen / Neng
+title: Neñ
+description: Şey -> Neñ
 date: 2024-05-23T12:24:00.000Z
 ---
-Şey -> Nen / Neng
+Şey -> Neñ/Nen
 
+Şey sözcüğü yerine Neñ söyleyebiliriz.
 
-
-Nen ya da Neng "şey" demektir.
-
-
-
-\> bir nenler yaşanıyor.
+\> Bir neñler yaşanıyor.
