@@ -1,10 +1,8 @@
 ---
-title: Ulus
-description: millet -> ulus
+title: Uluş/Ulus
+description: Millet -> Ulus
 date: 2024-05-23T19:50:00.000Z
 ---
-Millet -> Ulus
-
-
+Millet -> Uluş/Ulus
 
 Millet sözcüğü yerine **Ulus** sözcüğü kullanılabilir.
